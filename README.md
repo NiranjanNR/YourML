@@ -14,3 +14,6 @@ It then creates several models using some known algorithms and then compares all
 ![2](https://user-images.githubusercontent.com/84635960/221093896-bd24479c-93be-41b6-9b0d-8f4dc63efd6c.png)
 
 Finally you will be able to download your ML model in a .pickle format.
+
+![6](https://user-images.githubusercontent.com/84635960/221094174-69d18090-5964-403a-ac85-21907ba1ede4.png)
+
