@@ -5386,3 +5386,13 @@ Alternately, you can install this by running `pip install pycaret[models]`
                                  tol=0.001))],
          verbose=False)
 2023-02-24 10:20:07,184:INFO:save_model() successfully completed......................................
+2023-02-25 13:39:17,244:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-25 13:39:17,245:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-25 13:39:17,245:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-25 13:39:17,245:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-25 13:39:18,662:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
